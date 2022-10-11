@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm jbg02</h1>
-- 🔭 I’m currently working on **my CS Master's Degree**
+- 🔭 I’m currently working on my CS Master's Degree
 
-- 🌱 I’m currently learning **software design and documentation, JavaScript, and web design**
+- 🌱 I’m currently learning software design and documentation, JavaScript, and web design
 
 
 <h3 align="left">Languages and Tools:</h3>
